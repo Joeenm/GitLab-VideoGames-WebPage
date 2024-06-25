@@ -1,0 +1,11 @@
+/* Estilos para la galería */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 20px 0;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
